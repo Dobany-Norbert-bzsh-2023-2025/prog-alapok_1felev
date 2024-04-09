@@ -1,0 +1,76 @@
+Prog. Alapok
+
+2023-09-06
+
+Tankönyv - github/oktat/tan
+
+https://github.com/oktat/tan/blob/master/prog_alapok/01_Programozas.md
+1.
+1011 - gépikód
+ma már meseterséges nyelvek
+  c
+  c++
+  python
+ezek lefordítása gépikódra
+  fájl átadása - compiler/fordító
+    c, c++
+    .exe
+    már fordítva adjuk át
+  maga a forráskód átadása - interpreter/értelmező
+    python, java script
+    kell az adott program
+    futási időben értemeződik a kód
+c#, java - "fejlett nyelvek"
+  kell fordító és értelmező is
+  nem közvetlen gépikódra fordít - bytekód
+  kell a .net/java keretrendszer a futtató gépen
+algoritmus
+  pontosan, egyértelműen leírt utasítások sorozata
+    szekvenciális
+      sorozat, mindenképp egymás után sorba hajtódnak végre
+    iterációs
+    szelekciós
+  folyamatábra - https://szit.hu/doku.php?id=oktatas:programozas:programozas_elmelet:tananyag#folyamatabra
+PYTHON
+  Python Shell
+    parancsértelmező
+  python (linux, mac python=python2)
+  python3
+Windows Shell
+  cmd
+  powershell
+git
+  gitbash
+
+cmd
+mkdir dev - könyvtár létrehozás
+dir - aktuális könyvtár tartalmának ellenörzése
+cd dev - belépés a mappába
+mkdir dna
+cd dna
+
+Python Shell
+indítás
+    python
+  kilépés
+    exit()
+
+total commander - TC
+choco intall totalcommander
+
+F7 - hello
+ Shift+f4 - main.py
+
+
+Prog. feladatgyűjt.
+https://szit.hu/doku.php?id=oktatas:programozas:feladatok:altalanos
+
+HTML
+TC-ben
+  code . - egy uj visual studio code file letrhozasa
+  <!--This is a comment. Comments are not displayed in the browser-->
+
+TC
+  '.' - a mappa amiben jelenleg "allunk"
+
+  

@@ -1,0 +1,204 @@
+1.) Hogy hívják a nyelvet amit, a számítógép beszél?
+
+    interpreter
+    gépikód---------
+    compiler
+    fordító
+
+2.) A szoftverfejlesztő mit állít elő fejlesztéskor?
+
+    táblázatkezelővel táblázat
+    forráskód--------
+    képernyő
+    billentyűzet
+
+3.) Mi igaz a compiler-re?
+
+    A forráskódból fordít köztes állapotokon keresztül gépi kódot.
+    A program futtatásakor értelmezi a forráskódot.
+    A táblázatkezelőben a képleteket értjük alatta.
+    A gépi kódból készít forráskódot.---------
+
+4.) Melyik nyelven fordítunk bájtkódot a gépikód helyett?
+
+    C
+    C++
+    C#--------
+    Pascal
+
+5.) Melyik nyelven fordítunk bájtkódot a gépikód helyett?
+
+    JavaScript
+    Java--------
+    PHP
+    Pascal
+
+6.) Értelmezett nyelvre melyik igaz?
+
+    Futtatáskor az értelmező gépi kódot készít---------
+    A forráskódot, még futtatás előtt gépi kóddá fordítjuk.
+    Nem használunk forráskódot.
+    A programot gépi kódba írjuk.
+
+7.) Mi igaz az algoritmusokra?
+
+    Egyértelműen elírt utasítások sorozatára van szükség.-------
+    Nincs szükség egyértelműen előírt utasításokra.
+    Az algoritmus nem tartalmazhat ismétlődéseket.
+    Az algoritmus nem tartalmazhat elágazásokat.
+
+8.) Mi igaz a mondatszerű leírásra.
+
+    Síkidomokban írjuk le az algoritmust.
+    Természetes nyelv mondataival írjuk le az algoritmust.-------
+    Mondatszerű leírást csak számítógépen készíthetünk.
+    Mondatszerű leírásban nem használhatunk szorzásnak * operátort.
+
+9.) Mi igaz a REPL-re?
+
+    Adott programozási nyelvhez van egy interaktív program, ahova beírhatjuk, kipróbálhatjuk az utasításait.------
+    A REPL arra utal, hogy programozási nyelvnek sokszor jelenik meg újabb verziója.
+    A REPL a Read Event Point Loop rövidítése.
+    A Python nyelvhez nem készítettek REPL-t.
+
+10.) A Python 3 nyelvre igaz:
+
+    70/2 kifejezésben a "/" jel valós osztást jelent--------
+    70/2 kifejezésben a "/" jel egész osztást jelent
+    70/2 kifejezésben a "/" jel, nem állhat magában, kettő darab szükséges "//".
+    70/2 kifejezésben a "/" jel az osztás maradékát kapjuk.
+
+11.) A Python 3 nyelvre igaz:
+
+    A "%" operátorként a valós osztást eredményét adja.
+    A "%" operátorként a hatványértéket számít.
+    A "%" operátor egy egész osztás, egész részét adja.
+    A "%" operátor egy egész osztás maradékát adja.--------
+
+1.) Melyik HTML elem a gyökérelem egy dokumentumban?
+
+head
+doctype
+html-
+body
+2.) Melyik HTML elemmel adjuk meg lang változót?
+
+head
+html-
+body
+div
+3.) Melyik az a HTML elem, amelynek a tartalma a böngészőben megjelenik mint weblap?
+
+head
+meta
+title
+body-
+4.) Mit állíthatunk be a lang attribútummal?
+
+Az oldal készítésének dátuma.
+A weboldal karakterkódolása.
+A weboldal nyelvezete.-
+A weboldalhoz használt fordító program.
+5.) Melyik a helyes karakterkódolás beállítás?
+
+<html charset="utf-8">
+<lang charset="utf-8">
+<body charset="utf-8">
+<meta charset="utf-8">-
+6.) Ha szeretnénk megjeleníteni a "Madár" szót elsődleges fejezetcímként, akkor azt a következő elemek között tesszük.
+
+body
+h1-
+title
+lang
+7.) <html lang="hu"></html> részletből HTML elemnek nevezzük a következőt:
+
+lang
+bármelyik html egyedül
+a két html együtt-
+"hu"
+8.) Egy HTML elem egyik tagját így hívjuk:
+
+log
+tag-
+feg
+heg
+9.) A title elemek célja:
+
+A weblapon megjelenő oldal címének beállítása.
+A weblap karakterkódolásának beállítása.
+A weblap címe a böngésző fülön vagy a címsorában.-
+A weblap gyökéreleme.
+10.) A body elem célja:
+
+A böngészőfülön cím beállítása.
+A weboldal kódolásának beállítása.
+A weboldalon megjelenő tartalmat ide helyezzük.-
+A weboldal nyelvét állítjuk be.
+11.) HTML oldalon a helyes megjegyzés:
+
+/∗ szöveg ∗/
+<!-- szöveg -->-
+# szöveg
+{ szöveg }
+12.) Ennyiféle fejezetcím állítható be a HTML elemekkel:
+
+4
+5
+6-
+7
+13.) Kettes szintű fejezetcímet a következő HTML elemmel állítunk be:
+
+h2-
+f2
+head2
+header2
+14.) HTML-en belül bekezdésnek a következő elemmel jelölünk szöveget:
+
+a
+b
+p-
+i
+15.) Melyik elem általános célú a következők közül.
+
+i
+h1
+div-
+em
+16.) Melyik elem általános célú a következők közül.
+
+i
+span-
+p
+pre
+17.) Mitől blokkszintű egy HTML elem?
+
+A tartalma csak utf-8 kódolású lehet.
+Csak a tartalmat fogja körbe.
+Nem lehet tartalma.
+Kitölti a rendelkezésre álló helyet.-
+18.) Mitől inline egy HTML elem?
+
+Kitölti a rendelkezésre álló helyet.
+Nem lehet tartalma.
+Csak a tartalmat fogja körbe.-
+A tartalma csak utf-8 kódolású lehet.
+19.) Melyik blokk elem?
+
+span
+i
+b
+div-
+20.) Melyik inline elem?
+
+i-
+div
+p
+h1
+21.) Hogyan lehet sortörést megjeleníteni a weblapon?
+
+line
+br-
+break
+linebreak
+tan/prog_alapok/02_Webszerkesztes.md at master · oktat/tan

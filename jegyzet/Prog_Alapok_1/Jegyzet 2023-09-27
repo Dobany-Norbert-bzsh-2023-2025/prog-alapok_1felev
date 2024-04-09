@@ -1,0 +1,6 @@
+kulon file: style.css
+background color: blue
+
+meg kell mondani a html fajlnak hogy a style.css-t hasznalja
+
+<link ref="" href="">

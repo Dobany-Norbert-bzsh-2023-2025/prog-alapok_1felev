@@ -1,0 +1,33 @@
+azonosító,hegység,név,csúcs,magasság,állat
+1,Mount Everest,Himalája,Hilary Csomópont,8848.86,Havasi sas
+2,K2,Karakoram,Godwin-Austen Csomópont,8611.34,Alpesi mormota
+3,Kangchenjunga,Himalája,Goodwin Austen Csomópont,8586.56,Hegyi kecske
+4,Lhotse,Himalája,Main Csomópont,8516.78,Havasi sas
+5,Makalu,Himalája,Makalu Csomópont,8485.21,Hegyi tündérbéka
+6,Cho Oyu,Himalája,Main Csomópont,8201.45,Alpesi mormota
+7,Dhaulagiri,Himalája,Dhaulagiri Csomópont,8167.67,Havasi sas
+8,Manaslu,Himalája,Manaslu Csomópont,8163.43,Hegyi kecske
+9,Nanga Parbat,Himalája,Diamir Csomópont,8121.89,Alpesi mormota
+10,Annapurna,Himalája,Main Csomópont,8091.76,Havasi sas
+11,Gasherbrum I,Karakoram,Hidden Peak,8080.25,Alpesi mormota
+12,Broad Peak,Karakoram,Main Csomópont,8051.32,Hegyi tündérbéka
+13,Gasherbrum II,Karakoram,Main Csomópont,8035.11,Havasi sas
+14,Shishapangma,Himalája,Main Csomópont,8020.55,Hegyi kecske
+15,Distaghil Sar,Karakoram,Main Csomópont,7885.67,Alpesi mormota
+16,Gongga Shan,Himalája,Main Csomópont,7556.89,Havasi sas
+17,Aneto,Pireneusok,Aneto,3404.32,Hegyi kecske
+18,Monte Perdido,Pireneusok,Monte Perdido,3355.32,Alpesi mormota
+19,Posets,Pireneusok,Posets,3375.78,Havasi sas
+20,Coma Pedrosa,Pireneusok,Coma Pedrosa,2942.23,Hegyi tündérbéka
+21,Matterhorn,Alpok,Matterhorn,4478.67,Alpesi mormota
+22,Mont Blanc,Alpok,Mont Blanc,4810.11,Havasi sas
+23,Eiger,Alpok,Eiger,3970.45,Hegyi kecske
+24,Grand Combin,Alpok,Grand Combin de Grafeneire,4314.99,Havasi sas
+25,Weisshorn,Alpok,Weisshorn,4506.76,Alpesi mormota
+26,Grandes Jorasses,Alpok,Grandes Jorasses,4208.32,Hegyi tündérbéka
+27,Finsteraarhorn,Alpok,Finistere Csomópont,4274.55,Havasi sas
+28,Zugspitze,Alpok,Zugspitze,2962.89,Hegyi kecske
+29,Dachstein,Alpok,Hunerkogel,2995.23,Alpesi mormota
+30,Grossglockner,Alpok,Grossglockner,3798.67,Havasi sas
+31,Tahtali Dag,Taurus-hegység,Tahtali Dag,2365.11,Hegyi tündérbéka
+32,Aragats,Greater Caucasus,Aragats,4090.45,Alpesi mormota
